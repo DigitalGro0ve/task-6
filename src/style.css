@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+.header{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.navigation{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.nav_link{
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+}
+.mt-120{
+    margin-top: 120px;
+}
+.container{
+    margin: 0;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col-6{
+    width: 50%;
+}
+.luffy{
+    width: 100%;
+}
+.main_header{
+    font-size: 100px;
+    font-weight: 1000;
+    color: red;
+    text-align: center;
+}
+.head_container{
+    padding: 30px;
+    
+}
+.col-3{
+    width: 33%;
+}
+.image_container{
+    padding: 30px;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: red;
+}
+.rame{
+    display: flex;
+}
+.kide{
+    padding-left: 30px;
+    padding-right: 200px;
+}
